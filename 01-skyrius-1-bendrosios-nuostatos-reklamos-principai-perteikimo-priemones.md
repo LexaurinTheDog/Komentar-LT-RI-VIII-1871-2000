@@ -32,7 +32,7 @@
 
 > 1. Ekonominis elgesys – reklamos vartotojų sprendimai ar veiksmai, susiję su prekių ar paslaugų įsigijimu, ūkine komercine, finansine ar profesine veikla.
 >
-> 11. Iškaba – ant ar prie reklamos davėjo buveinės pastato arba reklamos davėjo prekybos ar paslaugų teikimo vietoje ar prie jos įrengiama speciali išorinės reklamos pateikimo priemonė, ant kurios ar kurioje pateikiama informacija: reklamos davėjo pavadinimas ir (arba) reklamos davėjo prekybos ar paslaugų teikimo vietos pavadinimas (parduotuvė, viešbutis, kirpykla ir kt.), ir (arba) parduodamų prekių ar teikiamų paslaugų pavadinimas (avalynė, automobilių remontas ir kt.). Iškaba taip pat laikoma tokios informacijos pateikimo vieta ant reklamos davėjo buveinės arba prekybos ar paslaugų teikimo vietos pastato sienos, langų ar durų. Be nurodytos informacijos, iškaboje gali būti pateikiami prekių ženklas, logotipas, emblema, darbo laikas, reklamos davėjo vardas, pavardė.
+> 1¹. Iškaba – ant ar prie reklamos davėjo buveinės pastato arba reklamos davėjo prekybos ar paslaugų teikimo vietoje ar prie jos įrengiama speciali išorinės reklamos pateikimo priemonė, ant kurios ar kurioje pateikiama informacija: reklamos davėjo pavadinimas ir (arba) reklamos davėjo prekybos ar paslaugų teikimo vietos pavadinimas (parduotuvė, viešbutis, kirpykla ir kt.), ir (arba) parduodamų prekių ar teikiamų paslaugų pavadinimas (avalynė, automobilių remontas ir kt.). Iškaba taip pat laikoma tokios informacijos pateikimo vieta ant reklamos davėjo buveinės arba prekybos ar paslaugų teikimo vietos pastato sienos, langų ar durų. Be nurodytos informacijos, iškaboje gali būti pateikiami prekių ženklas, logotipas, emblema, darbo laikas, reklamos davėjo vardas, pavardė.
 >
 > 2. Išorinė reklama – reklama, kurios įvairios specialios (stendai, skydai, stulpai, vitrinos ir pan.) ir pritaikytos (pastatų sienos, langai, durys, stogai, laikinieji statiniai, transporto priemonės, oro balionai ir pan.) pateikimo priemonės yra ne patalpose. Išorine reklama taip pat laikoma:
 >
@@ -74,7 +74,7 @@
 >
 > 19. Šiame įstatyme vartojama sąvoka „gyvenvietė“ suprantama taip, kaip apibrėžiama Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme, sąvokos „komercinės veiklos subjektas“, „komercinis pasiūlymas“, „sprendimas dėl sandorio“, „vartotojas“, „vidutinis vartotojas“ suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme.
 
-*e-TAR redakcinė pastaba:* [11 d.] Papildyta straipsnio dalimi: Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+*e-TAR redakcinė pastaba:* [1¹ d.] Papildyta straipsnio dalimi: Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
 
 *e-TAR redakcinė pastaba:* [2 d. 2 p.] Straipsnio dalies pakeitimai: Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
 
@@ -88,7 +88,7 @@ Subjektų sąvokos sudaro hierarchiją: **reklaminės veiklos subjektas** (9 dal
 
 Materialiųjų draudimų pagrindą sudaro **klaidinančios** (3 dalis), **lyginamosios** (4 dalis) ir **paslėptos reklamos** (5 dalis) sąvokos; jas konkretizuoja 5, 6 ir 8 straipsniai. Paslėptos reklamos apibrėžime įtvirtinta neginčijama prezumpcija: jei už informacijos pateikimą sumokama ar kitaip atsilyginama, tokia informacija „visais atvejais“ laikoma paslėpta reklama. Su klaidinimo vertinimu susijusi **ekonominio elgesio** sąvoka (1 dalis).
 
-Išorinės reklamos reguliavimui (12 straipsnis) skirtos **išorinės reklamos** (2 dalis) ir **iškabos** sąvokos. Iškabos apibrėžimas papildytas 2018 m. (žr. pastabą); šaltinio tekste ši dalis pažymėta „11“, nes e-TAR suvestinėje prarastas viršutinis indeksas (iš esmės tai 1¹ dalis). Iškaba laikoma išorine reklama (2 dalies 2 punktas), tačiau 12 straipsnio 2 dalies 4–6 punktuose kai kurioms iškaboms numatytos išimtys iš leidimo reikalavimo. 6 dalis neteko galios, o 18 dalyje apibrėžtas religinis simbolis, reikšmingas 4 straipsnio 2 dalies 10 punktui. 19 dalis yra blanketinė: sąvokos „gyvenvietė“ ir „vartotojas“, „vidutinis vartotojas“, „komercinis pasiūlymas“ ir kt. aiškinamos pagal Saugaus eismo automobilių keliais įstatymą ir Nesąžiningos komercinės veiklos vartotojams draudimo įstatymą; taip užtikrinamas reklamos ir nesąžiningos komercinės veiklos reguliavimo vienodumas (plg. 5 straipsnio 4, 6 ir 7 dalis).
+Išorinės reklamos reguliavimui (12 straipsnis) skirtos **išorinės reklamos** (2 dalis) ir **iškabos** sąvokos. Iškabos apibrėžimas (1¹ dalis) papildytas 2018 m. (žr. pastabą). Iškaba laikoma išorine reklama (2 dalies 2 punktas), tačiau 12 straipsnio 2 dalies 4–6 punktuose kai kurioms iškaboms numatytos išimtys iš leidimo reikalavimo. 6 dalis neteko galios, o 18 dalyje apibrėžtas religinis simbolis, reikšmingas 4 straipsnio 2 dalies 10 punktui. 19 dalis yra blanketinė: sąvokos „gyvenvietė“ ir „vartotojas“, „vidutinis vartotojas“, „komercinis pasiūlymas“ ir kt. aiškinamos pagal Saugaus eismo automobilių keliais įstatymą ir Nesąžiningos komercinės veiklos vartotojams draudimo įstatymą; taip užtikrinamas reklamos ir nesąžiningos komercinės veiklos reguliavimo vienodumas (plg. 5 straipsnio 4, 6 ir 7 dalis).
 
 #### ANTRASIS SKIRSNIS — REKLAMOS PRINCIPAI IR BENDRIEJI REIKALAVIMAI
 
@@ -318,7 +318,7 @@ Straipsnis reguliuoja tik reklamos išdėstymą laike, bet ne jos turinį; turin
 >
 > 4) iškaba turi būti įrengiama pagal Lietuvos Respublikos notariato įstatymu, Lietuvos Respublikos antstolių įstatymu įgaliotos institucijos patvirtintą formą;
 >
-> 5) įrengiama ne didesnio kaip 0,3 m2 ploto iškaba;
+> 5) įrengiama ne didesnio kaip 0,3 m² ploto iškaba;
 >
 > 6) įrengiama Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatytus reikalavimus atitinkanti iškaba, ant kurios ar kurioje pateikiamas tik reklamos davėjo pavadinimas ir (arba) vardas, pavardė arba reklamos davėjo prekybos ar paslaugų teikimo vietos pavadinimas, arba parduodamų prekių ar teikiamų paslaugų pavadinimas ir (arba) darbo laikas.
 >

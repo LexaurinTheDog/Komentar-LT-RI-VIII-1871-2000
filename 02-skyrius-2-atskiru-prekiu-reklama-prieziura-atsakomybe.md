@@ -202,7 +202,7 @@ Savitvarka įstatyme turi ir teisinių pasekmių: kodekso įsipareigojimų prisi
 
 *e-TAR redakcinė pastaba:* Papildyta straipsniu: Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
 
-21¹ straipsnis (šaltinio tekste dėl prarasto viršutinio indekso pažymėtas „211“) įstatymą papildė 2018 m. (žr. pastabą) ir nustato komercinių paslapčių apsaugos procedūrą priežiūros institucijose. Jis detalizuoja 21 straipsnio 3 dalyje įtvirtintą konfidencialumo pareigą ir kartu sieja ją su teise į gynybą pagal 25 straipsnio 13 ir 14 dalis.
+21¹ straipsnis įstatymą papildė 2018 m. (žr. pastabą) ir nustato komercinių paslapčių apsaugos procedūrą priežiūros institucijose. Jis detalizuoja 21 straipsnio 3 dalyje įtvirtintą konfidencialumo pareigą ir kartu sieja ją su teise į gynybą pagal 25 straipsnio 13 ir 14 dalis.
 
 1 dalis numato, kad apsauga suteikiama **prašymu**: reklaminės veiklos subjektai ar kiti asmenys, teikdami dokumentus ar informaciją arba nedelsdami sužinoję, kad institucija tokią informaciją turi, gali pateikti prašymą, kuriame aiškiai ir motyvuotai nurodo, kokia informacija laikytina komercine paslaptimi. Taigi apsauga nėra automatinė, o motyvavimo pareiga tenka prašančiajam.
 

@@ -38,7 +38,7 @@ Priežiūrą atlieka pirmiausia Valstybinė vartotojų teisių apsaugos tarnyba,
 ## Metodas
 
 - Nuostatų tekstas perkeltas **pažodžiui** iš oficialios e-TAR suvestinės redakcijos, mašininiu būdu, be santrumpų ir praleidimų. Straipsnių dalys šaltinyje numeruojamos („1.“, „2.“), punktai žymimi „1)“; komentare nurodoma, pvz., „12 straipsnio 1 dalies 4 punktas“.
-- Šaltinio tekste prarasti viršutiniai indeksai: 21¹ straipsnio antraštė pateikiama kaip „211 straipsnis“, o 2 straipsnio 1¹ dalis (iškabos sąvoka) – kaip „11.“. Vieneto žymenyje vartojamas teisingas žymuo „21¹ straipsnis“, o pats tekstas paliktas toks, koks yra šaltinyje.
+- Numeriai su viršutiniu indeksu (21¹ straipsnis, 2 straipsnio 1¹ dalis – iškabos sąvoka) pateikiami taip, kaip jie užrašyti šaltinyje; taip pat ploto vienetas „m²“.
 - e-TAR redakcinės pastabos (informacija apie straipsnių, jų dalių ir punktų pakeitimus, papildymus ir naikinimą) pateikiamos po atitinkamo vieneto teksto kaip atskiros pastabos; laužtiniuose skliaustuose nurodoma dalis arba punktas, po kurio pastaba stovi šaltinyje. Netekusios galios dalys (2 straipsnio 6 dalis, 25 straipsnio 7 dalis) pateikiamos su šaltinyje esančiu įrašu „Neteko galios“.
 - Priedas pateikiamas kaip atskiras vienetas. Pasirašymo formulė ir pakeitimų sąrašas į komentuojamą tekstą neįtraukti; iš jų paimti tik pagrindiniai duomenys šiame įvade.
 - Skirsnių antraštės pateikiamos kaip struktūrinės antraštės.
